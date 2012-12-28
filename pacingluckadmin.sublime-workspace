@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"view",
+				"view_status"
+			],
+			[
+				"compa",
+				"company_block"
+			],
+			[
+				"view_com",
+				"view_comments_label"
+			],
+			[
+				"border",
+				"borderRadius"
+			],
+			[
+				"mView",
+				"mViewDS"
+			],
+			[
+				"backgrou",
+				"backgroundImage"
+			],
+			[
+				"nav",
+				"navi_main"
+			],
+			[
+				"cNaviMain",
+				"cNaviMainItem"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"mSock",
+				"mSocketNS"
+			],
+			[
+				"cB",
+				"cB64"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"vText",
+				"vTextGapTop"
+			],
+			[
+				"vTextGa",
+				"vTextGapTop"
+			],
+			[
+				"vGap",
+				"vTextGapRight"
+			],
+			[
+				"vMaxFr",
+				"vMaxWFromOthers"
+			],
+			[
+				"vMaxFrom",
+				"vMaxWFromOthers"
+			],
+			[
+				"vMax",
+				"vMaxWFromMe"
+			],
+			[
+				"vLab",
+				"vLabelVGap"
+			],
+			[
+				"vLabe",
+				"vLabelVGap"
+			],
+			[
+				"mHei",
+				"mHeightB"
+			],
+			[
+				"vLabel",
+				"vLabelHGap"
+			],
+			[
+				"SI",
+				"SIZE"
+			],
+			[
+				"backgr",
+				"backgroundColor"
+			],
+			[
+				"cSb",
+				"cSubScreenConversation"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"vSoc",
+				"vSocketID"
+			],
+			[
+				"vSock",
+				"vSocketConn"
+			],
+			[
+				"mIte",
+				"mItemWidth"
+			],
+			[
+				"fGot",
+				"fGotoSubScreen"
+			],
+			[
+				"vRi",
+				"vRightBtnStyle"
+			],
+			[
+				"vLeftB",
+				"vLeftBtn2Style"
+			],
+			[
+				"mT",
+				"mMainTabW"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"cOverla",
+				"cOverlayOption"
+			],
+			[
+				"OVERL",
+				"OVERLAYCONFIRM"
+			],
+			[
+				"OVER",
+				"OVERLAYCONFIRM"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 141.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cListViewPeople.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cVCMSectionHeader.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainBlockedUsers.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cInfoBlock.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cProfileBlock.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cNaviMain.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/contact/cSubScreenUserProfile.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cVCMSectionItem.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cScrollableView.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/cModel.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinIndex.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/util/cSys.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cNaviMainItem.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cOverlayActivityIndicator.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/chat/cSubScreenConversation.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cScreenTitlebar.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cConversationItem.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/contact/cSubScreenAddContact.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainFavourite.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainPeople.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainHistory.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cScreen.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cBase.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cListViewMenu.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/cSocketObj.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/proxy/cProxyConversation.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/proxy/cProxyUser.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/proxy/cProxy.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/cB64.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cButton.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/proxy/cProxyAuthenticate.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/base64v1_0.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainContact.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cGridImage.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cWin.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMain.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cLabel.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/app.js",
+		"/Users/pantherqin/Downloads/VCUtil.as",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainSetting.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cSectionItem.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/authentication/cWinLogin.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/build/android/res/values/theme.xml",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/tiapp.xml",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cOverlayOption.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainAll.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cView.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cTextfield.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cTextarea.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cScreenMainFavourate.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinBlockedUsers.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/authentication/cWinSignup.js",
+		"/Users/pantherqin/Dropbox/a.xml",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/cNaviMain.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cListViewMainTab.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cMainTabList.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/screens/group/cSubScreenAddGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cOverlayConfirm.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cOverlay.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/util/cUtil.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cSettingButton.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cOptionOverlay.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cActivityIndicator.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cConfirmOverlay.js",
+		"/Users/pantherqin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/proxy/cProxyGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cListViewGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cListViewHistory.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cMainTabItem.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cVCMTabButton.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cListView.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cObject.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cSwitch.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cTab.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cTabGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinMain.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinAddContact.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinAddContactsToChat.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinAddGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinConversation.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinEditProfile.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinForgetPassword.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinGroupProfile.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinIgnoredUsers.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinSecuritySettings.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinSignup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinTest1.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinViewProfile.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/contact/cWinAddContact.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/contact/cWinEditUserStatus.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/group/cWinAddGroup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/cLocalDB.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/includes/cFacade.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cVCMConversationItem.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/cMainTabSubHeader.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cImage.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinIndexA.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinIndex_backup.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinLogin.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/lib/basic/cScrollView.js",
+		"/Users/pantherqin/Workspace/vcube_messenger_mobile/Resources/src/windows/cWinPrivacySettings.js",
+		"/Users/pantherqin/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/pantherqin/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xfGetProfileUrl",
+			"server_url",
+			"fDbg",
+			"xImageUrl",
+			"4 *",
+			"xTitleViewH",
+			"openoverlay",
+			"cProfileBlock",
+			"family",
+			"cProfileBlock",
+			"img_profile",
+			"viewcontainer_profilephoto",
+			"cNaviMainItem",
+			"imageurl",
+			"xProfileImg",
+			"xLeftBtnStyle",
+			"vLeftBtnStyle",
+			"cButton",
+			"xPeer",
+			"xpeer",
+			".mParticipantsList",
+			"xSelf.peer.mData.mParticipantsList",
+			"factor",
+			"3",
+			"fAddMess",
+			"mModel.mUserProfilePic",
+			"mUserProfilePic",
+			"fdbg",
+			"scroll",
+			"background",
+			"scrollview",
+			"backgroundColor",
+			"xImageIcon",
+			"vImageIcon",
+			"10",
+			"#FFFFAA",
+			"yellow",
+			"border_slidemenu.png",
+			"cNaviMainItem",
+			"cMainTabItem",
+			"fEquip",
+			"scrollview",
+			"mmodel",
+			"facade",
+			"cListViewMenu",
+			"menu",
+			"fGetFriendList",
+			"mdata",
+			"mModel.mCovID",
+			"receive:conversation:msg",
+			"xCurrRecords",
+			"xPrevRecords",
+			"fDbg",
+			"mSocketNameSpace",
+			"mSocketID",
+			"socket",
+			"mAppIndex",
+			"create in",
+			"timestamp",
+			"replace(/^\\s\\s*/, '')",
+			"public mess",
+			"fNewBroadcastMessage",
+			"vTextGapLeft",
+			"get records",
+			"get",
+			"gerecords",
+			"get recor",
+			"get records",
+			"fOnSocketMessage",
+			"color",
+			"fontSizeChatText",
+			"fDbg",
+			"fPublicMessage",
+			"trigger:send:message",
+			".mViewDS.parentV",
+			"fDbg",
+			"fNewInputMessage",
+			"fDbg",
+			"vLabelHGap",
+			"vLabelVGap",
+			"xListenerClick",
+			"vID",
+			"vLabel",
+			"cView",
+			"right",
+			"toimage",
+			"listener",
+			"xPeer",
+			"conversationSV",
+			"<<<<",
+			"vText",
+			"pText",
+			"bubbleView",
+			"vIndex",
+			"new cConversationItem",
+			".enabled =",
+			"vPeer.mViewDS.bottom_btn.enabled",
+			"H_DEFAULT",
+			"peer.mViewDS.conversationSV",
+			"this.mViewDS",
+			"mViewDS.text",
+			"this.mIndex",
+			"mViewDS.text",
+			"this.mIndex",
+			"mViewDS.text",
+			"this.mIndex",
+			"xPeer",
+			"cConversationItem",
+			"latestTop",
+			"arr_idToImage",
+			"fNewInputMessage",
+			"fAddMessage",
+			"fNewInputMessage",
+			"gototabscreen",
+			"send",
+			"public mess",
+			"mMessageList",
+			"mPrev",
+			"mPrevMessage",
+			"mPrevMessage.messageID",
+			"mPrevMessage.",
+			"mPrevMessage.messageID =",
+			"mPrevMessage =",
+			"vData[1]",
+			"fDbg",
+			"xSelf.fRender",
+			"frender",
+			"fOnSocketMessage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cInfoBlock",
+			"cProfileBlock",
+			"vPeer",
+			"cNaviMainItem",
+			"mSocketNSConn",
+			"mSocketNS",
+			"mViewDS.text\ncGridImage",
+			"mViewDS.text\nthis.peer.mViewDS",
+			"mViewDS.text\nmViewDS.lbl_message",
+			"mViewDS.text\nmViewDS.label",
+			"mPrevCommandID",
+			"fDbg",
+			"mSocketServer",
+			"mSocketNameSpace",
+			"socketNameSpace",
+			"cSocketObj",
+			"cSectionItem",
+			"vPeer",
+			"avourite",
+			"cTextarea",
+			"mModel",
+			"vPeer.mViewDS",
+			"cConversationItem",
+			"cSubScreenConversation",
+			"cSectionItem",
+			"cScreenMainFavourate",
+			"mNaviMainW",
+			"cNaviMain",
+			"navi_main",
+			"cListViewMenu",
+			"mainscreen_container",
+			"cListViewMenu",
+			"cListViewMainTab",
+			"cOverlayConfirm",
+			"vPeer",
+			"xTitleViewH",
+			"xOptionViewH",
+			"cOverlayOption",
+			"cOverlayActivityIndicator",
+			"OVERLAYOPTION",
+			"cOverlay",
+			"/src/screens/",
+			"'/src/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}
